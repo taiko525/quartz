@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+这个网站是用 `Cloudflare` 和 `Quartz` 制作的 ~~你应该可以从域名和界面看出来（~~
+
+还是很简单的，如果你也想做，我可以看看出个教程 ~~[官方文档](https://quartz.jzhao.xyz/)可能比我写得好~~
+
+做这个花了我`18`块 （买的`一块五`每月的梯子
+
+先就这样，以后再改改
