@@ -22,11 +22,23 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
+
+      // typography: {
+      //   header: "Schibsted Grotesk",
+      //   body: "Source Sans Pro",
+      //   code: "IBM Plex Mono",
+      // },
       typography: {
-        header: "JetBrains Mono" /* "Schibsted Grotesk" */ ,
-        body:   "JetBrains Mono" /* "Source Sans Pro"   */ ,
-        code:   "JetBrains Mono" /* "IBM Plex Mono"     */ ,
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "JetBrains Mono",
       },
+      // typography: {
+      //   header: "JetBrains Mono",
+      //   body:   "JetBrains Mono",
+      //   code:   "JetBrains Mono",
+      // },
+
       colors: {
         lightMode: {
           light: "#faf8f8",
